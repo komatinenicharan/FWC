@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.10)  13 JUL 2023 14:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.7.10)  14 JUL 2023 12:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -894,53 +894,55 @@ File: utxsyc.fd 2000/12/15 v3.1
 LaTeX Warning: No \author given.
 
 
-Overfull \hbox (0.21959pt too wide) in paragraph at lines 80--81
+Overfull \hbox (0.21959pt too wide) in paragraph at lines 79--80
 []\OT1/txr/m/n/10 A win-dow is in the form of a rect-an-gu-lar mounted by a sem
 i-circular open-ing.The
  []
 
 
-Overfull \hbox (3.37015pt too wide) in paragraph at lines 80--81
+Overfull \hbox (3.37015pt too wide) in paragraph at lines 79--80
 \OT1/txr/m/n/10 to-tal perime-ter of the win-dow to ad-mit max-i-mum light thro
 ugh the whole open-ing. 
  []
 
-[2{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<figs/fig1.jpg, id=15, 603.25375pt x 331.2375pt>
+[2{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [3]
+<figs/fig1.jpg, id=18, 603.25375pt x 331.2375pt>
 File: figs/fig1.jpg Graphic file (type jpg)
 <use figs/fig1.jpg>
-Package pdftex.def Info: figs/fig1.jpg  used on input line 140.
+Package pdftex.def Info: figs/fig1.jpg  used on input line 163.
 (pdftex.def)             Requested size: 345.0pt x 189.43405pt.
- [3]
-<figs/fig2.jpg, id=19, 294.09875pt x 418.56375pt>
-File: figs/fig2.jpg Graphic file (type jpg)
-<use figs/fig2.jpg>
-Package pdftex.def Info: figs/fig2.jpg  used on input line 155.
-(pdftex.def)             Requested size: 345.0pt x 491.00772pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./figs/fig1.jpg>] [5 <./figs/fig2.jpg>] (./optimization.aux) ) 
+<figs/fig2.jpg, id=19, 294.09875pt x 418.56375pt>
+File: figs/fig2.jpg Graphic file (type jpg)
+<use figs/fig2.jpg>
+Package pdftex.def Info: figs/fig2.jpg  used on input line 180.
+(pdftex.def)             Requested size: 345.0pt x 491.00772pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4] [5 <./figs/fig1.jpg>] [6 <./figs/fig2.jpg>] (./optimization.aux) ) 
 Here is how much of TeX's memory you used:
- 22499 strings out of 478287
- 467868 string characters out of 5849289
- 695845 words of memory out of 5000000
- 40303 multiletter control sequences out of 15000+600000
+ 22501 strings out of 478287
+ 467902 string characters out of 5849289
+ 693861 words of memory out of 5000000
+ 40305 multiletter control sequences out of 15000+600000
  499124 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,10n,104p,414b,516s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/t
-exlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fo
-nts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/tfrupe
-e/tfrupee.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on optimization.pdf (4 pages, 190078 bytes).
+ 100i,11n,104p,414b,516s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/sha
+re/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dis
+t/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/tf
+rupee/tfrupee.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txs
+y.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on optimization.pdf (5 pages, 190173 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
