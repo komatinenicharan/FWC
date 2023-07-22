@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Question}{1}{section.1}%
+\contentsline {section}{\numberline {2}Components}{2}{section.2}%
+\contentsline {section}{\numberline {3}TruthTable}{2}{section.3}%
+\contentsline {section}{\numberline {4}K-Maps}{2}{section.4}%
+\contentsline {section}{\numberline {5}Implimentation}{3}{section.5}%
+\contentsline {section}{\numberline {6}Procedure}{3}{section.6}%
