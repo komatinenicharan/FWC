@@ -1,0 +1,5 @@
+x_1     6   3  0  # set_io x_1       5
+x_0     8   3  0  # set_io x_0       6
+y_1    10   3  0  # set_io y_1       2
+y_0     4   3  0  # set_io y_0       4
+$iopadmap$helloworldfpga.s  12   3  0  # set_io s         3
